@@ -1,0 +1,24 @@
+{
+  "name": "troublesome-caniuse",
+  "version": "0.0.1",
+  "description": "Browser native technology compatibility report using caniuse db",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pistis/troublesome-caniuse.git"
+  },
+  "keywords": [
+    "caniuse",
+    "report",
+    "compatibility"
+  ],
+  "author": "pistis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pistis/troublesome-caniuse/issues"
+  },
+  "homepage": "https://github.com/pistis/troublesome-caniuse#readme"
+}
