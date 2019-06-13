@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/pistis/troublesome-caniuse/issues"
   },
-  "homepage": "https://github.com/pistis/troublesome-caniuse#readme"
+  "homepage": "https://github.com/pistis/troublesome-caniuse#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "prettier": "1.18.2"
+  }
 }
