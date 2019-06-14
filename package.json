@@ -57,7 +57,7 @@
       "<rootDir>/node_modules/"
     ],
     "testMatch": [
-      "<rootDir>/__tests__/spec/*.spec.js?(x)"
+      "<rootDir>/spec/*.js?(x)"
     ]
   }
 }
